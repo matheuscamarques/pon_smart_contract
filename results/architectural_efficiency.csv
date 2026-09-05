@@ -1,0 +1,9 @@
+Modelo,Custo_1_Lote,HyperFused_1_Lote,Economia_Arquitetural_%
+Tradicional,239879,63624,73.48
+PON Otimizado,244042,63624,73.93
+Paradigmático,244265,63624,73.95
+BitPacked,68680,63624,7.36
+ShortCircuit,242685,63624,73.78
+Transient,241551,63624,73.66
+YulPON,259457,63624,75.48
+Merkle,68202,63624,6.71

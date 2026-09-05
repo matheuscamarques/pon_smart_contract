@@ -1,0 +1,28 @@
+{
+  "name": "pon_smart_contract_benchmark",
+  "version": "1.0.0",
+  "description": "Benchmark de gas para contratos Solidity PON vs Tradicional",
+  "main": "scripts/benchmark.js",
+  "scripts": {
+    "benchmark": "node scripts/benchmark.js"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.6.1",
+    "dotenv": "^16.6.1",
+    "ethers": "^6.16.0",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.4.0",
+    "solc": "^0.8.34"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.2",
+    "hardhat": "^2.28.6",
+    "hardhat-gas-reporter": "^2.3.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

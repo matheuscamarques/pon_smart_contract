@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^npx hardhat test$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

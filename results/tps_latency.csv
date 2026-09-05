@@ -1,0 +1,10 @@
+Modelo,TPS,LatenciaMediaMs
+Tradicional,236.88,1.00
+PON Otimizado,329.21,0.57
+Paradigmático,390.88,0.50
+BitPacked,378.63,0.60
+ShortCircuit,383.45,0.58
+Transient,260.83,0.74
+YulPON,424.84,0.47
+Merkle,350.89,0.63
+HyperFused,333.65,0.53
